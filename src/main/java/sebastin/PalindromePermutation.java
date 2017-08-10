@@ -45,6 +45,7 @@ public class PalindromePermutation {
 
         //print permutations
         printPermutations("sebastin");
+        printPermutations("ABC");
         //check palindrome or not
     }
 }
